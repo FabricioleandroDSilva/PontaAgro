@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YyvxWNFLgkym7zGUvfjFGDdOHtP6jNjoM/krhlYWkzqXl8wGo/Hqb/GafAL1Mkajk8eQIAdpJxjv+xqKtuIhYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabricio.silva\\OneDrive - Trade Technology\\Área de Trabalho\\Fabricio\\Ponta\\ProvaPonta\\Ponta.Dominio\\Ponta.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabricio.silva\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

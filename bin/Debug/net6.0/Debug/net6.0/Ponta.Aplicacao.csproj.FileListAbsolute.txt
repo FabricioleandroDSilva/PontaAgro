@@ -1,0 +1,7 @@
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\bin\Debug\net6.0\Debug\net6.0\Ponta.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\bin\Debug\net6.0\Debug\net6.0\Ponta.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\bin\Debug\net6.0\Debug\net6.0\Ponta.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\bin\Debug\net6.0\Debug\net6.0\Ponta.Aplicacao.AssemblyInfo.cs
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\bin\Debug\net6.0\Debug\net6.0\Ponta.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\bin\Debug\net6.0\Debug\net6.0\Ponta.Aplicacao.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\bin\Debug\net6.0\Debug\net6.0\Ponta.Aplicacao.MvcApplicationPartsAssemblyInfo.cache

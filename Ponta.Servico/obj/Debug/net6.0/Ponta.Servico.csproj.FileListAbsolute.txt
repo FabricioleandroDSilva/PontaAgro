@@ -1,0 +1,15 @@
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Servico\bin\Debug\net6.0\Ponta.Servico.deps.json
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Servico\bin\Debug\net6.0\Ponta.Servico.dll
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Servico\bin\Debug\net6.0\Ponta.Servico.pdb
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Servico\bin\Debug\net6.0\Ponta.Dominio.dll
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Servico\bin\Debug\net6.0\Ponta.Dominio.pdb
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Servico\obj\Debug\net6.0\Ponta.Servico.csproj.AssemblyReference.cache
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Servico\obj\Debug\net6.0\Ponta.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Servico\obj\Debug\net6.0\Ponta.Servico.AssemblyInfoInputs.cache
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Servico\obj\Debug\net6.0\Ponta.Servico.AssemblyInfo.cs
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Servico\obj\Debug\net6.0\Ponta.Servico.csproj.CoreCompileInputs.cache
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Servico\obj\Debug\net6.0\Ponta.Servico.csproj.CopyComplete
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Servico\obj\Debug\net6.0\Ponta.Servico.dll
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Servico\obj\Debug\net6.0\refint\Ponta.Servico.dll
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Servico\obj\Debug\net6.0\Ponta.Servico.pdb
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Servico\obj\Debug\net6.0\ref\Ponta.Servico.dll
