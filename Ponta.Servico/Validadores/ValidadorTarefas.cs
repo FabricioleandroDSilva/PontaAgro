@@ -29,7 +29,8 @@ namespace Ponta.Servico.Validadores
                 .NotNull().WithMessage("Campo obrigatório! Preencha o campo Data.");
 
             RuleFor(c => c.Status)
-                .NotNull().WithMessage("Campo obrigatório! Preencha o campo Status. \n  P - Pendente \n EP - Progresso \n C - Concluido ");
+                .NotNull().WithMessage("Campo obrigatório! Utilize: \n 0 - Pendente \n 1 - Em Conclusão \n 2 - Concluido.")
+             .IsInEnum().WithMessage("Status incorreto.Utilize: \n 0 - Pendente \n 1 - Em Conclusão \n 2 - Concluido.");
 
         }
     }
