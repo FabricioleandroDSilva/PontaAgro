@@ -30,6 +30,9 @@ namespace Ponta.Servico.Servicos
         public override TOutputModel Inserir<TInputModel, TOutputModel, TValidator>(TInputModel obj)
         {
             Tarefas entity = _mapper.Map<Tarefas>(obj);
+
+            Validate(entity, Activator.CreateInstance<TValidator>());
+
             Dictionary<string, string> camposvalor = new()
             {
                 { "Login", _httpContextAccessor.HttpContext.User.Identity.Name}
@@ -46,10 +49,13 @@ namespace Ponta.Servico.Servicos
         public override TOutputModel Atualizar<TInputModel, TOutputModel, TValidator>(TInputModel obj)
         {
             Tarefas entity = _mapper.Map<Tarefas>(obj);
-            string usuarioBanco = RetornarUsuarioLogado(entity.Id);
-            if (!usuarioBanco.ToUpper().Equals(_httpContextAccessor.HttpContext.User.Identity.Name.ToUpper()))
+
+            Tuple<int, string> usuarioBanco = RetornarUsuarioLogado(entity.Id);
+
+            if (!usuarioBanco.Item2.ToUpper().Equals(_httpContextAccessor.HttpContext.User.Identity.Name.ToUpper()))
                 throw new Exception("Usuário não tem permissão para alterar esta tarefa.");
 
+            entity.IdUsuario = usuarioBanco.Item1;
             Validate(entity, Activator.CreateInstance<TValidator>());
             _repositorioBaseTarefas.Atualizar(entity);
             TOutputModel outputModel = _mapper.Map<TOutputModel>(entity);
@@ -62,7 +68,7 @@ namespace Ponta.Servico.Servicos
                 throw new Exception("Por Favor preencha o campo status.");
 
             if (status != 0 && status != 1 && status != 2)
-                throw new Exception("Status incorreto.\n 0 - Pendente \n 1 - Em andamento \n 2 - Concluido.");
+                throw new Exception("Status incorreto. Utilize \n 0 - Pendente \n 1 - Em Conclusão \n 2 - Concluido.");
 
             Dictionary<string, string> camposvalor = new ()
             {
@@ -77,8 +83,8 @@ namespace Ponta.Servico.Servicos
         public override bool Apagar(int id)
         {
 
-            string usuarioBanco = RetornarUsuarioLogado(id);
-            if (!usuarioBanco.ToUpper().Equals(_httpContextAccessor.HttpContext.User.Identity.Name.ToUpper()))
+            Tuple<int, string> usuarioBanco = RetornarUsuarioLogado(id);
+            if (!usuarioBanco.Item2.ToUpper().Equals(_httpContextAccessor.HttpContext.User.Identity.Name.ToUpper()))
                 throw new Exception("Usuário não tem permissão para Excluir esta tarefa.");
 
             _repositorioBaseTarefas.Apagar(id);
@@ -86,14 +92,13 @@ namespace Ponta.Servico.Servicos
 
         }
 
-        private string RetornarUsuarioLogado(int id)
+        private Tuple<int, string> RetornarUsuarioLogado(int id)
         {
             Tarefas tarefas = _repositorioBaseTarefas.SelecionarPorId(id);
-            if(tarefas == null)
+            if (tarefas == null)
                 throw new Exception("Registro não encontrado.");
 
-            return tarefas.Usuario.Login;
-
+            return new Tuple<int, string>(tarefas.Usuario.Id, tarefas.Usuario.Login);
         }
 
     }
