@@ -1,0 +1,17 @@
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\bin\Debug\net6.0\Ponta.Infra.deps.json
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\bin\Debug\net6.0\Ponta.Infra.dll
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\bin\Debug\net6.0\Ponta.Infra.pdb
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\bin\Debug\net6.0\Ponta.Dominio.dll
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\bin\Debug\net6.0\Ponta.Dominio.pdb
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\obj\Debug\net6.0\Ponta.Infra.csproj.AssemblyReference.cache
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\obj\Debug\net6.0\Ponta.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\obj\Debug\net6.0\Ponta.Infra.AssemblyInfoInputs.cache
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\obj\Debug\net6.0\Ponta.Infra.AssemblyInfo.cs
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\obj\Debug\net6.0\Ponta.Infra.csproj.CoreCompileInputs.cache
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\obj\Debug\net6.0\Ponta.Infra.csproj.CopyComplete
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\obj\Debug\net6.0\Ponta.Infra.dll
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\obj\Debug\net6.0\refint\Ponta.Infra.dll
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\obj\Debug\net6.0\Ponta.Infra.pdb
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\obj\Debug\net6.0\ref\Ponta.Infra.dll
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\bin\Debug\net6.0\Ponta.Infra.runtimeconfig.json
+C:\Users\fabricio.silva\OneDrive - Trade Technology\Área de Trabalho\Fabricio\Ponta\ProvaPonta\Ponta.Infra\obj\Debug\net6.0\Ponta.Infra.genruntimeconfig.cache
