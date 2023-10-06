@@ -3,7 +3,7 @@
 1. Possuir a  versão donet 6.0 ou superior e visual studio 2022 ou superior instalado no ambiente de desenvolvimento. (https://visualstudio.microsoft.com/pt-br/vs/community/)
 2. Instalar posgresSql [https://www.enterprisedb.com/downloads/postgres-postgresql-downloads].
 3. Seguir passo a passo da configuração do ambiente de desenvolvimento que se encontra no repositório.
-4. Ler com atenção a configuração inicial do projeto, referente ao status e adicionar um usuário incial.
+4. Ler com atenção a configuração inicial do projeto,documento Manual de configuração do ambiente de desenvolvimento.pdf
    
 ## Estrutura do projeto
 
