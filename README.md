@@ -16,7 +16,6 @@
 |Back-end	        |  Arquitetura em camadas                 |	.Net Core 6        |
 |Versionamento      |	Versionamento do código das aplicações|	GitHub             |
 |Documentação de API|Solução para documentação das APIs da solução|	    Swagger  |
-|Teste de Software| 	Teste unitários	                      |NUnit             |
 
 ## ⚙️ Estrutura Backend
 
