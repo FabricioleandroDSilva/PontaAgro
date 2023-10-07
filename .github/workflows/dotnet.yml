@@ -19,8 +19,6 @@ jobs:
         dotnet-version: 6.0.x
     - name: Restore dependencies
       run: dotnet restore
-    - name: Create output directories
-      run: mkdir -p bin/Debug/net6.0
     - name: Build
       run: dotnet build --no-restore
     - name: Test

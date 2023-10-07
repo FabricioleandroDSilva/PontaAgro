@@ -5,6 +5,7 @@
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <DocumentationFile>\bin\Debug\net6.0\Swagger.xml</DocumentationFile>
     <BaseIntermediateOutputPath />
+    <BaseOutputPath>..\bin\Debug\net6.0\</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
